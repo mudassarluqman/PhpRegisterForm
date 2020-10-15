@@ -1,2 +1,2 @@
 # PhpRegisterForm
-Php Registration form with validations
+Php Registration form with validations Usin OOP Practices
